@@ -17,7 +17,7 @@
       "WFFactory": "src/"
     },
     "classmap": [
-      "Module.php"
+      "/Blog/Module.php"
     ]
   }
 }
