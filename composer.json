@@ -1,0 +1,15 @@
+{
+  "name": "inlineskate2110/helloword-dtm",
+  "type": "project",
+  "description": "test upload to pakagist",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Do Van Minh",
+      "email": "inlineskate2110@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  }
+}
